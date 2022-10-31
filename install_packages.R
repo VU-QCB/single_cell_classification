@@ -1,4 +1,4 @@
-options(repos = c("https://cran.cnr.berkeley.edu"))
+options(repos = c("https://mirrors.nics.utk.edu/cran"))
 
 cran_packages <- c('here', 'magrittr', 'reshape2', 'plyr', 'dplyr', 'ggplot2',
                    'Matrix', 'readr', 'tibble', 'data.table', 'glmnet', 'Seurat',
